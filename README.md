@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @motishokri
 - 👀 I’m interested in AI & ML
 
-I am a woman who is passionate about working and learning new things to improve myself. I want to become a well-qualified person in the field of computer sciences when I complete my studies. Moreover, as a student, I try to develop my skills and learn new things through courses and projects in my field of interest.
+I hold a master's degree in Computer Science and have been actively engaged in data science projects for several months. I am currently an intern, focusing on learning machine learning and neural networks. My ambition lies in tackling larger projects and becoming an integral part of a strong team as I progress in my career.
 
  📫 contact me
 - Please feel free to contact me if you have anything to discuss about computer science. My Emails: motahare.shokri99@gmail.com and My linkedin: https://www.linkedin.com/in/motahare-shokri
