@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @motishokri
-- 👀 I’m interested in AI & ML
 
-I hold a master's degree in Computer Science and have been actively engaged in data science projects for several months. I am currently an intern, focusing on learning machine learning and neural networks. My ambition lies in tackling larger projects and becoming an integral part of a strong team as I progress in my career.
+Hey there! 👋 I'm Motahare Shokri, a dedicated data scientist on a mission to unravel insights from complex datasets. I thrive on challenges, constantly refining my skills to stay at the cutting edge of machine learning and data analysis.
 
  📫 contact me
 - Please feel free to contact me if you have anything to discuss about computer science. My Emails: motahare.shokri99@gmail.com and My linkedin: https://www.linkedin.com/in/motahare-shokri
